@@ -2,3 +2,4 @@ hello world
 this is cool.
 I love git.
 hello is back
+before HEAD
